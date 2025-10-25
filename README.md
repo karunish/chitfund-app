@@ -78,4 +78,8 @@ To set up and run this project on your local machine, you would typically follow
     ```
     The application should now be running on `http://localhost:8080` (or another port if configured).
 
-## Screenshots / Demo
+## Some screenshots
+<img width="1920" height="903" alt="login" src="https://github.com/user-attachments/assets/a382bfb2-950e-45e3-937b-3c782f303955" />
+<img width="1920" height="906" alt="adminPanel1" src="https://github.com/user-attachments/assets/2549f213-4dd2-42a5-81cb-d4511da99393" />
+<img width="1920" height="927" alt="Contribution" src="https://github.com/user-attachments/assets/a5d30380-a60f-466e-9f6f-437f87ff6b5e" />
+
