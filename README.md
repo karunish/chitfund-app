@@ -1,10 +1,10 @@
 # Veritas Ledger: Collaborative Financial Management
 
-## Short Tagline
+## What is this?
 
 A comprehensive web application designed to streamline the management of community-based financial systems, such as chit funds, by tracking contributions, managing loan requests, and providing administrative oversight.
 
-## Purpose and Problem Solved
+## What problem does this even solve?
 
 Traditional methods of managing group savings and loan systems often involve manual record-keeping, leading to inefficiencies, errors, and a lack of transparency. This application aims to digitize and centralize these processes, offering a secure and accessible platform for members to track their financial activities and for administrators to manage the fund efficiently. It addresses the need for a modern, transparent, and user-friendly system for collective financial management.
 
@@ -44,7 +44,6 @@ This project is built using a modern web development stack, showcasing proficien
 *   **React:** For building dynamic and interactive user interfaces.
 *   **TypeScript:** Enhances code quality and maintainability with static typing.
 *   **Tailwind CSS:** For utility-first styling, enabling rapid and consistent UI development.
-*   **shadcn/ui:** A collection of beautifully designed, accessible, and customizable UI components built with Radix UI and Tailwind CSS.
 *   **React Router:** For declarative routing within the single-page application.
 *   **React Query (TanStack Query):** For efficient data fetching, caching, and synchronization.
 
@@ -58,13 +57,12 @@ To set up and run this project on your local machine, you would typically follow
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/karunish/chitfund-app
+    cd chitfund-app-main
     ```
 2.  **Install dependencies:**
     ```bash
     npm install
-    # or yarn install
     ```
 3.  **Configure Supabase:**
     *   Create a Supabase project.
@@ -77,7 +75,6 @@ To set up and run this project on your local machine, you would typically follow
 4.  **Start the development server:**
     ```bash
     npm run dev
-    # or yarn dev
     ```
     The application should now be running on `http://localhost:8080` (or another port if configured).
 
